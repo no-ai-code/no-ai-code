@@ -1,7 +1,7 @@
 ---
 name: Share Dev Story
 about: Share your hand-coding story & extinction countdown
-title: '[Dev Story] Your Name/Handle'
+title: 'Your Name/Handle'
 labels: dev-story
 assignees: ''
 
