@@ -1,1 +1,3 @@
-We are the last dinosaurs of handwritten code.
+Last dinosaurs of hand-written code.
+Issues enabled.
+Replies extinct.
